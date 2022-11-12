@@ -17,3 +17,5 @@
 ## 5. Finalizar a release
 - git flow release finish _versão_da_release
 
+#### Correções de erro.
+- https://salferrarello.com/git-warning-pulling-without-specifying-how-to-reconcile-divergent-branches-is-discouraged/
