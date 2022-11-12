@@ -17,5 +17,11 @@
 ## 5. Finalizar a release
 - git flow release finish _versão_da_release
 
+### configurar vscode global
+- https://uw-madison-aci.github.io/git-novice/02-setup/
+
+### link sobre Git flow
+- https://www.youtube.com/watch?v=394mc6PV8t8
+
 #### Correções de erro.
 - https://salferrarello.com/git-warning-pulling-without-specifying-how-to-reconcile-divergent-branches-is-discouraged/
