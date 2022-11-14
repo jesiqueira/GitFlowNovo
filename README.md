@@ -17,6 +17,12 @@
 ## 5. Finalizar a release
 - git flow release finish _versão_da_release
 
+## Modificar url do projeto
+- git remote set-url origin url_do_git
+
+## Enviar unica tag
+- git push origin <tag_name>
+
 ### configurar vscode global
 - https://uw-madison-aci.github.io/git-novice/02-setup/
 
