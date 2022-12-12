@@ -19,6 +19,8 @@
 
 ## Modificar url do projeto
 - git remote set-url origin url_do_git
+## Verificar url do projeto
+- git remote -v
 
 ## Enviar unica tag
 - git push origin <tag_name>
